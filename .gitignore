@@ -1,0 +1,11 @@
+# JetBrains IDE files
+.idea/
+*.iml
+out/
+
+# Build output
+build/
+target/
+
+# OS files
+.DS_Store
