@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Initial fixes project");
+        System.out.println("Code update before soft reset");
     }
 }
